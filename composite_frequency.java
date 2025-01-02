@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Cpmposite_Frequency
+public class Composite_Frequency
 {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
