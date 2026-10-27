@@ -19,7 +19,7 @@ class ASCIICode
                 
                 if (ch > lowerCaseHigh) {
                     lowerCaseHigh = ch;
-                }
+                
             }
             else if (Character.isUpperCase(ch)) {
                 if (ch < upperCaseLow) {
